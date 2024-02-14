@@ -1,5 +1,5 @@
 # Nimberite
-The Nimberite MC server implementation in all it's (probably buggy and incomplete) glory!~
+The Nimberite MC server implementation in all its (probably buggy and incomplete) glory!~
 Isn't this great? Look at what I've accomplished (with a lot of help)!
 
 ## Libraries Created
